@@ -1,0 +1,26 @@
+.pl {
+    font-family: "Alegreya SC";
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.pl-title {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.pl-desc {
+    margin: 20px 0px;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.pl-list {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
